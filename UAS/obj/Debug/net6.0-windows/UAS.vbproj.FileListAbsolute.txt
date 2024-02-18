@@ -1,0 +1,17 @@
+C:\Users\savir\OneDrive\Documents\Ilyas\UAS\UAS\UAS\bin\Debug\net6.0-windows\UAS.exe
+C:\Users\savir\OneDrive\Documents\Ilyas\UAS\UAS\UAS\bin\Debug\net6.0-windows\UAS.deps.json
+C:\Users\savir\OneDrive\Documents\Ilyas\UAS\UAS\UAS\bin\Debug\net6.0-windows\UAS.runtimeconfig.json
+C:\Users\savir\OneDrive\Documents\Ilyas\UAS\UAS\UAS\bin\Debug\net6.0-windows\UAS.dll
+C:\Users\savir\OneDrive\Documents\Ilyas\UAS\UAS\UAS\bin\Debug\net6.0-windows\UAS.pdb
+C:\Users\savir\OneDrive\Documents\Ilyas\UAS\UAS\UAS\obj\Debug\net6.0-windows\UAS.vbproj.AssemblyReference.cache
+C:\Users\savir\OneDrive\Documents\Ilyas\UAS\UAS\UAS\obj\Debug\net6.0-windows\UAS.Form1.resources
+C:\Users\savir\OneDrive\Documents\Ilyas\UAS\UAS\UAS\obj\Debug\net6.0-windows\UAS.vbproj.GenerateResource.cache
+C:\Users\savir\OneDrive\Documents\Ilyas\UAS\UAS\UAS\obj\Debug\net6.0-windows\UAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\savir\OneDrive\Documents\Ilyas\UAS\UAS\UAS\obj\Debug\net6.0-windows\UAS.AssemblyInfoInputs.cache
+C:\Users\savir\OneDrive\Documents\Ilyas\UAS\UAS\UAS\obj\Debug\net6.0-windows\UAS.AssemblyInfo.vb
+C:\Users\savir\OneDrive\Documents\Ilyas\UAS\UAS\UAS\obj\Debug\net6.0-windows\UAS.vbproj.CoreCompileInputs.cache
+C:\Users\savir\OneDrive\Documents\Ilyas\UAS\UAS\UAS\obj\Debug\net6.0-windows\UAS.dll
+C:\Users\savir\OneDrive\Documents\Ilyas\UAS\UAS\UAS\obj\Debug\net6.0-windows\refint\UAS.dll
+C:\Users\savir\OneDrive\Documents\Ilyas\UAS\UAS\UAS\obj\Debug\net6.0-windows\UAS.pdb
+C:\Users\savir\OneDrive\Documents\Ilyas\UAS\UAS\UAS\obj\Debug\net6.0-windows\UAS.genruntimeconfig.cache
+C:\Users\savir\OneDrive\Documents\Ilyas\UAS\UAS\UAS\obj\Debug\net6.0-windows\ref\UAS.dll
